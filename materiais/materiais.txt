@@ -1,0 +1,5 @@
+Aqui estão alguns materiaisi que para estudo.
+Segue o linque do google colab com o simulador:
+https://colab.research.google.com/drive/1E9GLMm0HpYYV-I2CoHWGNA198_FRBzfN?usp=sharing
+e o linque do colab que usamos incialmente. 
+https://colab.research.google.com/drive/1EkmhAYlsCQDbfJDtXpxWVc4foI0d17hY?usp=sharing
